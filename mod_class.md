@@ -36,6 +36,10 @@
 
 ### 音乐/音效
 
+#### [Win11 Sound](https://github.com/LorisYounger/VUPSimulator.WorkShop/tree/main/mod/0501_Win11_Sound)
+
+添加Windows11的自带音效,版权所有Microsoft
+
 ### 主题/界面
 
 ### 综合
