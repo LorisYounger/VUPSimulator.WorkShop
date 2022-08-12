@@ -14,9 +14,9 @@
 
 * [立绘](#立绘)
 
-* [音乐/音效](#音乐/音效)
+* [音乐/音效](#音乐音效)
 
-* [主题/界面](#主题/界面)
+* [主题/界面](#主题界面)
 
 * [综合](#综合)
 
@@ -42,6 +42,6 @@
 
 ### 代码插件
 
-#### [Cheat Engine]()
+#### [Cheat Engine](https://github.com/LorisYounger/VUPSimulator.WorkShop/tree/main/mod/1100_CheatEngine)
 
 给游戏添加一个好用的修改器,修改你的数值,走上人生巅峰
